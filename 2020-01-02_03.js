@@ -38,7 +38,7 @@ ev0204 = ["ev0204", "Naturtreff Bremerhaven-Wesermünde", "Montag, 17.02.",
          "Treffen der Naturinteressierten im NABU Bremerhaven-Wesermünde", "", "", "18:30", "", "Rothalstaucher (Foto: Witt)",
          "https://i.imgur.com/KRPCTye.jpg"]
 
-ev0205 = ["ev0205", "NABU aktiv in Bramstedt", "Sonntag, 23.02.", "Pflegearbeiten auf dem NABU-Grundstück in Bramstedt",
+ev0205 = ["ev0205", "NABU aktiv in Bramel", "Sonntag, 23.02.", "Pflegearbeiten auf dem NABU-Grundstück in Bramel",
          "Uwe Frelich", "", "10:00", "", "", ""]
 
 ev0301 = ["ev0301", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 02.03.",
