@@ -49,7 +49,7 @@ ev0601 = ["ev0601", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 02.06.",
          "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde",
          "", "", "18:30", "", "", ""]
         
-ev0602 = ["ev0602", "Friedhof Wulsdorf", "Montag, 07.06.",
+ev0602 = ["ev0602", "Friedhof Wulsdorf", "Sonntag, 07.06.",
          "Naturkundliche Wanderung über den Wulsdorfer Friedhof",
          "Uwe Frelich", "", "10:00", "", "", ""]              
 
