@@ -33,7 +33,7 @@ ev0502 = ["ev0502", "Dorumer Moor", "Samstag, 02.05.",
          "Naturkundlicher Spaziergang. Anschließend Gelegenheit zum gemeinsamen Kaffeetrinken",
          "Achim Mülter", "", "13:00 (Geschäftsstelle) bzw. 13:30 (Pipinsburg)", "Parkplatz Pipinsburg", "", ""]
          
-ev0503 = ["ev0503", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 06.04.",
+ev0503 = ["ev0503", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 04.05.",
          "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde",
          "", "", "18:30", "", "", ""]
          
@@ -50,7 +50,7 @@ ev0601 = ["ev0601", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 02.06.",
          "", "", "18:30", "", "", ""]
         
 ev0602 = ["ev0602", "Friedhof Wulsdorf", "Montag, 07.06.",
-         "Naturkundliche Wanderung",
+         "Naturkundliche Wanderung über den Wulsdorfer Friedhof",
          "Uwe Frelich", "", "10:00", "", "", ""]              
 
 ev0603 = ["ev0603", "Infostand auf der Luneplate", "Sonntag, 14.06.",
