@@ -4,7 +4,7 @@ ev0401 = ["ev0401", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 06.04.",
 
 ev0402 = ["ev0402", "Eulen-AG", "Dienstag, 14.04.",
          "Informationsaustausch der Eulenbetreuer und Eulenfreunde im Landkreis Cuxhaven",
-         "", "", "19:00", "NABU-Umweltzentrum, Bahnhofstraße 20a, 27472 Cuxhaven", "", ""]
+         "Eulen-AG", "", "19:00", "NABU-Umweltzentrum, Bahnhofstraße 20a, 27472 Cuxhaven", "", ""]
 
 ev0403 = ["ev0403", "Naturtreff Bremerhaven-Wesermünde", "Montag, 20.04.",
          "Treffen der Naturinteressierten im NABU Bremerhaven-Wesermünde",
