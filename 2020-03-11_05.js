@@ -22,7 +22,7 @@ ev0403 = ["ev0403", "Naturtreff Bremerhaven-Wesermünde", "Montag, 20.04.",
          "", "", "18:30", "", "", ""]  
          
 ev0404 = ["ev0404", "Pflanzaktion zum Tag des Baumes", "Freitag, 24.04.",
-         "Der NABU spendet Bremerhaven eine Robinie, Baum des Jahres 2020. Wer beim Pflanzen mithelfen möchte, melde sich in der Geschäftsstelle oder unter Tel. 0471-200470.",
+         "Der NABU spendet Bremerhaven eine Robinie, Baum des Jahres 2020. Wer beim Pflanzen mithelfen möchte, melde sich in der <a href='https://www.nabu-bremerhaven.de/wir-über-uns/geschäftsstelle/'>Geschäftsstelle</a> oder unter Tel. 0471-200470.",
          "", "", "", "Bremerhaven", "", ""]
          
 ev0501 = ["ev0501", "Speckenbütteler Park", "Freitag, 01.05.",
@@ -54,7 +54,7 @@ ev0602 = ["ev0602", "Friedhof Wulsdorf", "Montag, 07.06.",
          "Uwe Frelich", "", "10:00", "", "", ""]              
 
 ev0603 = ["ev0603", "Infostand auf der Luneplate", "Sonntag, 14.06.",
-         "anlässlich des Fahrradtages der BIS. Helfer melden sich bitte in der Geschäftsstelle<br/>oder unter Tel. 0471-200470.",
+         "anlässlich des Fahrradtages der BIS. Helfer melden sich bitte in der <a href='https://www.nabu-bremerhaven.de/wir-über-uns/geschäftsstelle/'>Geschäftsstelle</a><br/>oder unter Tel. 0471-200470.",
          "", "", "", "Luneplate, Bremerhaven", "", ""]
 
 ev0604 = ["ev0604", "Naturtreff Bremerhaven-Wesermünde", "Montag, 15.06.",
