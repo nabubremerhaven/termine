@@ -63,6 +63,5 @@ ev0604 = ["ev0604", "Naturtreff Bremerhaven-Wesermünde", "Montag, 15.06.",
 events = [ev0301, ev0302, ev0303, ev0401, ev0402, ev0403, ev0404, ev0501, ev0502, ev0503, ev0504, ev0505, ev0601, ev0602, ev0603, ev0604]
 
 for (let i of events) {
-    for (j = 0, len = i.length; j < len; j++) {
-        if (j < len - 1) {document.getElementById(i[0]).getElementsByTagName("p")[j].innerHTML=i[j]}
-        else {document.getElementById(i[0]).getElementsByTagName("img")[0].src=i[j]}}}
+    for (j = 0, len = i.length; j < len; j++) {document.getElementById(i[0]).getElementsByTagName("p")[j].innerHTML=i[j]}
+        else {document.getElementById(i[0]).getElementsByTagName("img")[0].src=i[j]}}
