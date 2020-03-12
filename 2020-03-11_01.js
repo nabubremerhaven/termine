@@ -1,3 +1,14 @@
+ev0301 = ["ev0301", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 02.03.",
+         "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde.", "", "", "18:30", "", "NABU-Aktion zum internationalen Küstenputztag (Foto: Wierhake-Kattner)",
+         "https://i.imgur.com/x5HSk7z.jpg"]
+
+ev0302 = ["ev0302", "Bederkesaer See", "Sonntag, 08.03.", "Spaziergang um den Bederkesaer See", "Heike Wierhake-Kattner",
+         "", "13:30 (Geschäftsstelle), 14:00 (Bederkesa)", "Parkplatz an der Burg Bederkesa, Bederkesa", "", ""]
+
+ev0303 = ["ev0303", "Jahreshauptversammlung NABU Bremerhaven-Wesermünde", "Montag, 16.03.",
+         "Jahreshauptversammlung mit anschließendem Vortrag ''Gönn dir Garten''.", "Heike Wierhake-Kattner", "", "19:00",
+         "Kogge, Goethestraße 23, Bremerhaven", "", ""]
+
 ev0401 = ["ev0401", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 06.04.",
          "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde",
          "", "", "18:30", "", "", ""]
@@ -50,7 +61,7 @@ ev0604 = ["ev0604", "Naturtreff Bremerhaven-Wesermünde", "Montag, 15.06.",
          "Treffen der Naturinteressierten im NABU Bremerhaven-Wesermünde",
          "", "", "18:30", "", "", ""]
 
-events = [ev0401, ev0402, ev0403, ev0404, ev0501, ev0502, ev0503, ev0504, ev0505, ev0601, ev0602, ev0603, ev0604]
+events = [ev0301, ev0302, ev0303, ev0401, ev0402, ev0403, ev0404, ev0501, ev0502, ev0503, ev0504, ev0505, ev0601, ev0602, ev0603, ev0604]
 
 for (let i of events) {
     for (j = 0, len = i.length; j < len; j++) {
