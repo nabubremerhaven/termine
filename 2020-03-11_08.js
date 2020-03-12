@@ -1,6 +1,5 @@
 ev0301 = ["ev0301", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 02.03.",
-         "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde.", "", "", "18:30", "", "NABU-Aktion zum internationalen Küstenputztag (Foto: Wierhake-Kattner)",
-         "https://i.imgur.com/x5HSk7z.jpg"]
+         "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde.", "", "", "18:30", ""]
 
 ev0302 = ["ev0302", "Bederkesaer See", "Sonntag, 08.03.", "Spaziergang um den Bederkesaer See", "Heike Wierhake-Kattner",
          "", "13:30 (Geschäftsstelle), 14:00 (Bederkesa)", "Parkplatz an der Burg Bederkesa, Bederkesa", "", ""]
