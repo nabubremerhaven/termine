@@ -54,7 +54,7 @@ ev0602 = ["ev0602", "Friedhof Wulsdorf", "Montag, 07.06.",
          "Uwe Frelich", "", "10:00", "", "", ""]              
 
 ev0603 = ["ev0603", "Infostand auf der Luneplate", "Sonntag, 14.06.",
-         "anlässlich des Fahrradtages der BIS. Gelfer melden sich bitte in der Geschäftsstelle oder unter Tel. 0471-200470.",
+         "anlässlich des Fahrradtages der BIS. Helfer melden sich bitte in der Geschäftsstelle<br/>oder unter Tel. 0471-200470.",
          "", "", "", "Luneplate, Bremerhaven", "", ""]
 
 ev0604 = ["ev0604", "Naturtreff Bremerhaven-Wesermünde", "Montag, 15.06.",
