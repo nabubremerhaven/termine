@@ -38,8 +38,8 @@ ev0503 = ["ev0503", "Aktiventreff Bremerhaven-Wesermünde", "Montag, 06.04.",
          "", "", "18:30", "", "", ""]
          
 ev0504 = ["ev0504", "Stunde der Gartenvögel", "Freitag, 08.05. bis Sonntag, 10.05.",
-         "Die große Zählaktion in Garten und Park. Beobachten - melden - gewinnen!",
-         "<a href='https://www.stundedergartenvoegel.de/'>www.stundedergartenvoegel.de</a>", "", "1 Stunde", "bundesweit", "", ""]      
+         "Die große Zählaktion in Garten und Park. Beobachten - melden - gewinnen!", "",
+         "<a href='https://www.stundedergartenvoegel.de/'>www.stundedergartenvoegel.de</a>", "1 Stunde", "bundesweit", "", ""]      
 
 ev0505 = ["ev0505", "Naturtreff Bremerhaven-Wesermünde", "Montag, 18.05.",
          "Treffen der Naturinteressierten im NABU Bremerhaven-Wesermünde",
