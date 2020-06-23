@@ -1,5 +1,5 @@
 ev0601 = ["ev0601", "Bederkesaer See", "Sonntag, 28.06.",
-         "Naturkundlicher Spaziergang um den Bederkesaer See.", "A. Mülter", "Parkplatz an der Burg Bederkesa", "13:30", ""]
+         "Naturkundlicher Spaziergang um den Bederkesaer See.", "A. Mülter", "", "13:30", "Parkplatz an der Burg Bederkesa"]
 
 events = [ev0601]
 
