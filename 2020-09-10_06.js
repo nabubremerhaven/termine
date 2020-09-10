@@ -35,7 +35,7 @@ ev1102 = ["ev1102","Aktiventreff Bremerhaven-Wesermünde","Montag, 02.11.",
           "","","18:30","Schillerstraße 35, Bremerhaven","",""]          
 ev1103 = ["ev1103", "Naturkundliche Wanderung","Sonntag, 08.11.",
           "Naturkundliche Wanderung in Frelsdorfermühlen.",
-          "Uwe Frelich","","13:30","Café vpn der Ohe, Frelsdorfermühlen","",""]
+          "Uwe Frelich","","13:30","Café von der Ohe, Frelsdorfermühlen","",""]
 ev1104 = ["ev1104", "Wildsträucherabgabe","Samstag, 14.11.",
           "Ab heute können die vorbestellten Sträucher abgeholt werden.",
           "","","10:00 bis 12:00","","",""]        
