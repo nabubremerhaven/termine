@@ -59,7 +59,7 @@ ev1106 = ["ev1106","NABU aktiv in Bramel","Sonntag, 22.11.",
           "Pflege des NABU-Grundstücks.",
           "Uwe Frelich","","10:00","","",""]
 
-events = [ev0901, ev0902, ev0903, ev0904, ev1001, ev1002, ev1003, ev1004, ev1101, ev1102, ev1103, ev1104, ev1105, ev1106]
+events = [ev0901,ev0902,ev0903,ev0904,ev1001,ev1002,ev1003,ev1004,ev1101,ev1102,ev1103,ev1104,ev1105,ev1106]
 
 for (let i of events) {
     for (j = 0, len = i.length; j < len; j++) {
