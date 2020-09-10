@@ -6,10 +6,10 @@ ev0000 = ["ev0000", "<Titel>", "<Tag, Datum>",
 ev0901 = ["ev0901","Aktiventreff Bremerhaven-Wesermünde","Montag, 07.09.",
           "Infos und Planung der Aktivitäten im NABU Bremerhaven-Wesermünde",
           "","","18:30","Schillerstraße 35, Bremerhaven","",""]
-ev0902 = ["ev0902", "Herbstwanderung","Sonntag, 13.09.",
+ev0902 = ["ev0902","Herbstwanderung","Sonntag, 13.09.",
           "Herbstwanderung bei Düring.",
           "Uwe Frelich","","10:30","Ortsmitte Düring (Feuerwehr)","",""]
-ev0903 = ["ev0903", "Coastal Celanup Day","Samstag, 19.09.",
+ev0903 = ["ev0903","Coastal Celanup Day","Samstag, 19.09.",
           "Der NABU räumt auf am Internationalen Küstenputztag. Bitte Arbeitshandschuhe mitbringen!",
           "","","14:00","Parkplatz am Deich bei Schloss Morgenstern, Bremerhaven-Weddewarden","",""]
 ev0904 = ["ev0904","Naturtreff Bremerhaven-Wesermünde","Montag, 21.09.",
