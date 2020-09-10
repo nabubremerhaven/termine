@@ -32,22 +32,11 @@ ev1003 = ["ev1003","Naturtreff Bremerhaven-Wesermünde","Montag, 19.10.",
           "","","18:30","Schillerstraße 35, Bremerhaven","",""]
 
 ev1004 = ["ev1004","Mitgliederversammlung des NABU Bremerhaven-Wesermünde","Montag, 26.10.",
-          "Tagesordnung:<br/>
-          1. Begrüßung, Verlesung u. Genehmigung des Protokolls der Mitgliederversammlung vom 19.03.2019.<br/>
-          2. Jahresbericht 2019.<br/>
-          3. Kassenbericht und Bericht der Kassenprüfer<.<br/>
-          4. Entlastung des Vorstandes.<br/>
-          5. Vorstandswahlen: Neuwahl von 1. Vorsitzende*r, Schatzmeister*in, Schriftführer*in, Kassenprüfer*in.<br/>
-          6. Wahl der 5 Delegierten und 2 Ersatzdeligierten für die Landesvertreterversammlung des NABU-Landesverbandes Bremen e.V.<br/>
-          7. Verschiedenes.<br>
-          Anträge zur Tagesordnung können von Mitgliedern bis spätestens eine Woche vor der MGV schriftlich beim Vorstand eingereicht werden.",
+          "Tagesordnung:<br/>1. Begrüßung, Verlesung u. Genehmigung des Protokolls der Mitgliederversammlung vom 19.03.2019.<br/>2. Jahresbericht 2019.<br/>3. Kassenbericht und Bericht der Kassenprüfer<.<br/>4. Entlastung des Vorstandes.<br/>5. Vorstandswahlen: Neuwahl von 1. Vorsitzende*r, Schatzmeister*in, Schriftführer*in, Kassenprüfer*in.<br/>6. Wahl der 5 Delegierten und 2 Ersatzdeligierten für die Landesvertreterversammlung des NABU-Landesverbandes Bremen e.V.<br/>7. Verschiedenes.<br/>Anträge zur Tagesordnung können von Mitgliedern bis spätestens eine Woche vor der MGV schriftlich beim Vorstand eingereicht werden.",
           "","","19:00","Dienstleistungszentrum Grünhöfe, Auf der Bult 5, Bremerhaven","",""]
           
 ev1101 = ["ev1101","Bestellschluss Wildsträucher","Sonntag, 01.11.",
-          "Bis heute nehmen wir Bestellungen für die HerbstSammelbestellung an. Wählen Sie aus 50 verschiedenen heimischen Wildsträuchern! Bestellliste
-unter www.NABU-Bremen.de. Ab 14.11. gibt es
-die Pflanzen dann fertig gepackt im der NABU GS
-Bremerhaven, Grashoffstr. 21a oder am Schullandheim Dreptefarm, Wulsbüttel.",
+          "Bis heute nehmen wir Bestellungen für die HerbstSammelbestellung an. Wählen Sie aus 50 verschiedenen heimischen Wildsträuchern! Bestellliste unter www.NABU-Bremen.de. Ab 14.11. gibt es die Pflanzen dann fertig gepackt im der NABU GS Bremerhaven, Grashoffstr. 21a oder am Schullandheim Dreptefarm, Wulsbüttel.",
           "","","","","",""]         
           
 ev1102 = ["ev1102","Aktiventreff Bremerhaven-Wesermünde","Montag, 02.11.",
